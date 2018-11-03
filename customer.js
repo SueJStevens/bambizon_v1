@@ -100,7 +100,7 @@ function readProducts() {
       },
       3: {
         width: 50,
-        truncate: 100,
+        truncate: 80,
         wrapWord: true
       }
     }
