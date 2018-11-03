@@ -140,7 +140,7 @@ function readProducts() {
 
       //customer questions via inquirer
       inquirer.prompt(questions).then(answers => {
-        console.log(JSON.stringify(answers, null, '  '));
+        //console.log(JSON.stringify(answers, null, '  '));
         prodIDToBuy = answers.productID;
         qtyToBuy = answers.qtyToBuy;
 
