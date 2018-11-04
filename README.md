@@ -4,8 +4,7 @@ Bootcamp Assignment 10/28/2018 - Node.js &amp; MySQL
 BambiZon is an e-commerce company founded in 2018 as a niche marketplace to supply hard-to-find items to Hollywood's most elite and ageless cartoon characters.  Since it's humble beginnings when it had only 2 products (snow mittens sized perfectly for little dancing hooves, and sustainably sourced rain forest cotton-tail shampoo), BambiZon has grown to a multi-baZillion buZiness and is the world's largest online imaginary retailer.  You can find the BambiZon marketplace at https://github.com/SueJStevens/bambizon_v1.  We accept all forms of virtual currency including $Disney$Dollars, $Monopoly$Money and $bit$Coin.  Come $hop with us today!
 ## App Features
 ### Customer View
-    1. All items available for sale will populate the view when the customer runs the app.
-        ![allitemsavailableforsale](https://user-images.githubusercontent.com/39141985/47957756-49faa500-df79-11e8-9b5b-29da5d3bc926.png)
+    1. All items available for sale will populate the view when the customer runs the app.![allitemsavailableforsale](https://user-images.githubusercontent.com/39141985/47957756-49faa500-df79-11e8-9b5b-29da5d3bc926.png)
     2. App will prompt the user with 2 messages so the user can purchase items
         ![customerprompts](https://user-images.githubusercontent.com/39141985/47957766-8fb76d80-df79-11e8-89d8-1d1ab216d733.png)
     3. App will check the store to confirm there is quantity to fulfill order
